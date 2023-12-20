@@ -9,7 +9,7 @@ OperaGX big dumb dumb and you can just keep generating nitro codes from there pr
 ### How do i use the script?
 
 1) Click script.js and copy the contents
-2) Head over to [#how_to_claim](https://www.opera.com/gx/discord-nitro)https://www.opera.com/gx/discord-nitro
+2) Head over to (https://www.opera.com/gx/discord-nitro)https://www.opera.com/gx/discord-nitro
 3) Click F12, Or Right click and Inspect/Inspect element
 4) Paste the code into the Console area
 5) Hit enter
