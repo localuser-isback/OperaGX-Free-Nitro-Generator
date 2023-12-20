@@ -52,6 +52,7 @@ async function generatePromoCodeLinks() {
         for (let i = 0; i < CodesToGenerate; i++) {
             const link = await generateAndShowPromoUrl();
             promoLinks.push(link);
+            console.log(link);
             await new Promise((resolve) => setTimeout(resolve, Delay));
         }
         return promoLinks;
