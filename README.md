@@ -19,14 +19,7 @@ OperaGX big dumb dumb and you can just keep generating nitro codes from there pr
 
 #### Note: These are PROMO codes not normal nitro codes, this means 1) you cant currently have normal nitro (if you have basic it upgrades) 2) cant have had nitro in x amount of months and 3) requires a credit card (you can cancel imediatly you dont lose the nitro)
 
-#### --------------------------------------------------------------------------------------------------------
-#### --------------------------------------------------------------------------------------------------------
-#### --------------------------------------------------------------------------------------------------------
-#### --------------------------------------------------------------------------------------------------------
-
-### Extras:
-
-#### Screw it, heres a free 100 codes: (by the time your reading this someone has probably claimed them but whatever)
+#### [Screw it, heres a free 100 codes (by the time your reading this someone has probably claimed them but whatever)](https://github.com/localuser-isback/OperaGX-Free-Nitro-Generator/blob/main/enjoy.txt)
 
 
 
