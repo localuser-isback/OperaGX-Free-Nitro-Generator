@@ -19,7 +19,10 @@ OperaGX big dumb dumb and you can just keep generating nitro codes from there pr
 
 #### Note: These are PROMO codes not normal nitro codes, this means 1) you cant currently have normal nitro (if you have basic it upgrades) 2) cant have had nitro in x amount of months and 3) requires a credit card (you can cancel imediatly you dont lose the nitro)
 
-
+#### --------------------------------------------------------------------------------------------------------
+#### --------------------------------------------------------------------------------------------------------
+#### --------------------------------------------------------------------------------------------------------
+#### --------------------------------------------------------------------------------------------------------
 
 ### Extras:
 
