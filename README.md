@@ -2,6 +2,8 @@
 
 (Sounds like a scam i know but its not)
 
+[Check out the python implementation here](https://github.com/localuser-isback/OperaGX-Free-Nitro-Generator-Python)
+
 ### How it works?
 
 OperaGX big dumb dumb and you can just keep generating nitro codes from there promotion even after you complete it.
