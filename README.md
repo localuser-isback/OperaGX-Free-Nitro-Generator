@@ -1,6 +1,6 @@
-# OperaGX Free Nitro
+# OperaGX Free Nitro [DEPRECIATED, NO LONGER WORKS!]
 
-(Sounds like a scam i know but its not)
+........
 
 [Check out the python implementation here](https://github.com/localuser-isback/OperaGX-Free-Nitro-Generator-Python)
 
